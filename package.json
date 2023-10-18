@@ -1,0 +1,18 @@
+{
+  "name": "curso-asincronismo",
+  "version": "1.0.0",
+  "description": "Curso de Asincronismo",
+  "main": "index.js",
+  "scripts": {
+    "callback": "node src/callback/challenge.js"
+  },
+  "keywords": [
+    "javascript",
+    "async"
+  ],
+  "author": "Cristhian Castro <cristhianc10@hotmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "xmlhttprequest": "^1.8.0"
+  }
+}
